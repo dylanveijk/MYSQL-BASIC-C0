@@ -1,5 +1,5 @@
 -- Opdracht 1 
-
+SELECT * FROM videogamesales
 -- Opdracht 2 
 
 -- Opdracht 3
