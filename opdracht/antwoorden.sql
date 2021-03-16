@@ -1,11 +1,12 @@
 -- Opdracht 1 
 SELECT * FROM videogamesales
 -- Opdracht 2 
-
+SELECT year FROM videogamesales WHERE year = 1999
+er zijn 26 spellen uitgebracht in 1999
 -- Opdracht 3
-
+SELECT NA_Sales FROM videogamesales WHERE genre = "sports"
 -- Opdracht 4
-
+SELECT name,platform FROM videogamesales WHERE publisher = "nintendo" AND year = "1990-2005"
 -- Opdracht 5
 
 -- Opdracht 6 
